@@ -1,0 +1,15 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+.venv/
+env/
+venv/
+
+# Large model binaries (> 100MB exceeds GitHub limit)
+*.pt
+*.bin
+*.zip
+*.tar.gz
