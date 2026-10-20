@@ -1,0 +1,16 @@
+{
+  "dataset": "UIT-VSFC (11426 train / 1583 dev / 3166 test)",
+  "baseline_tfidf_linearsvc": {
+    "sentiment_macro_f1": 0.738,
+    "sentiment_accuracy": 0.8913,
+    "topic_macro_f1": 0.7447,
+    "topic_accuracy": 0.8474
+  },
+  "phobert_multitask": {
+    "backbone": "vinai/phobert-base-v2",
+    "sentiment_macro_f1": 0.7928,
+    "sentiment_accuracy": 0.9166,
+    "topic_macro_f1": 0.7775,
+    "topic_accuracy": 0.8651
+  }
+}
