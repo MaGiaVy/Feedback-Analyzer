@@ -1,0 +1,361 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Mã</th>
+      <th>Lớp</th>
+      <th>Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>21520000</td>
+      <td>CNTT01</td>
+      <td>k</td>
+    </tr>
+    <tr>
+      <td>21520001</td>
+      <td>CNTT01</td>
+      <td>nội dung học không theo kịp thực hành .</td>
+    </tr>
+    <tr>
+      <td>21520002</td>
+      <td>CNTT01</td>
+      <td>thầy dạy hay hứng thú .</td>
+    </tr>
+    <tr>
+      <td>21520003</td>
+      <td>CNTT01</td>
+      <td>mong rằng cô sẽ điều chỉnh để sinh viên có thể dễ dàng theo dõi bài giảng hơn .</td>
+    </tr>
+    <tr>
+      <td>21520004</td>
+      <td>CNTT01</td>
+      <td>giáo viên nhiệt tình vui vẻ .</td>
+    </tr>
+    <tr>
+      <td>21520005</td>
+      <td>CNTT01</td>
+      <td>giảng dạy rất chi tiết , dễ hiểu và dễ tiếp thu .</td>
+    </tr>
+    <tr>
+      <td>21520006</td>
+      <td>CNTT01</td>
+      <td>giảng dạy và hướng dẫn bài tập cần cụ thể hơn , cần có tài liệu trên website môn học .</td>
+    </tr>
+    <tr>
+      <td>21520007</td>
+      <td>CNTT01</td>
+      <td>không</td>
+    </tr>
+    <tr>
+      <td>21520008</td>
+      <td>CNTT01</td>
+      <td>thầy dạy dễ hiểu , gần gũi với sinh viên .</td>
+    </tr>
+    <tr>
+      <td>21520009</td>
+      <td>CNTT01</td>
+      <td>điều đó dẫn đến nhiều sinh viên cũng sẽ phát âm như vậy .</td>
+    </tr>
+    <tr>
+      <td>21520010</td>
+      <td>CNTT01</td>
+      <td>thầy dạy nhiệt tình , vui vẻ .</td>
+    </tr>
+    <tr>
+      <td>21520011</td>
+      <td>CNTT01</td>
+      <td>Thầy Trần Thị Bình dạy hệ thống giảng dạy trên wecode dễ hiểu . mssv 21520199 sđt 0912345678</td>
+    </tr>
+    <tr>
+      <td>21520012</td>
+      <td>CNTT01</td>
+      <td>giảng viên vui tính , hài hước .</td>
+    </tr>
+    <tr>
+      <td>21520013</td>
+      <td>CNTT01</td>
+      <td>giảng viên dễ chịu trong việc học bù , đổi giờ học .</td>
+    </tr>
+    <tr>
+      <td>21520014</td>
+      <td>CNTT01</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>21520015</td>
+      <td>CNTT01</td>
+      <td>thầy dạy rất hay và dễ hiểu , tập trung sát vào phần trọng tâm .</td>
+    </tr>
+    <tr>
+      <td>21520016</td>
+      <td>CNTT01</td>
+      <td>thầy nhiệt tình , đi dạy đầy đủ , vui vẻ .</td>
+    </tr>
+    <tr>
+      <td>21520017</td>
+      <td>CNTT01</td>
+      <td>đúng giờ , cách giảng dạy hay , truyền cảm hứng cho các sinh viên học tập .</td>
+    </tr>
+    <tr>
+      <td>21520018</td>
+      <td>CNTT01</td>
+      <td>thầy giảng hay , nhiệt tình .</td>
+    </tr>
+    <tr>
+      <td>21520019</td>
+      <td>CNTT01</td>
+      <td>giảng viên nhiệt tình .</td>
+    </tr>
+    <tr>
+      <td>21520020</td>
+      <td>CNTT01</td>
+      <td>lớp đã nghỉ 4 tuần liên tiếp chưa tính một vài ngày nghỉ khác .</td>
+    </tr>
+    <tr>
+      <td>21520021</td>
+      <td>CNTT01</td>
+      <td>không</td>
+    </tr>
+    <tr>
+      <td>21520022</td>
+      <td>CNTT01</td>
+      <td>Thầy Lê Hoàng Cường dạy những vấn đề thầy đem ra thường quá đi lệch khá xa so với những gì thầy đang giảng dạy . mssv 21520199 sđt 0912345678</td>
+    </tr>
+    <tr>
+      <td>21520023</td>
+      <td>CNTT01</td>
+      <td>thầy nhiệt tình với sinh viên .</td>
+    </tr>
+    <tr>
+      <td>21520024</td>
+      <td>CNTT01</td>
+      <td>giảng viên dạy dễ hiểu , tận tình , đảm bảo giờ lên lớp , cung cấp đầy đủ kiến thức cần có cho sinh viên .</td>
+    </tr>
+    <tr>
+      <td>21520025</td>
+      <td>CNTT01</td>
+      <td>đồ án lập trình cần giao ngay đầu học kỳ để sinh viên có thể sắp xếp đầu tư .</td>
+    </tr>
+    <tr>
+      <td>21520026</td>
+      <td>CNTT01</td>
+      <td>sự thân thiện giúp giảm căng thẳng trong buổi học .</td>
+    </tr>
+    <tr>
+      <td>21520027</td>
+      <td>CNTT01</td>
+      <td>thầy tận tâm giảng bài , giảng dễ hiểu và đúng với chương trình học .</td>
+    </tr>
+    <tr>
+      <td>21520028</td>
+      <td>CNTT01</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>21520029</td>
+      <td>CNTT01</td>
+      <td>thầy nên đổi mới cách dạy để bài học trở nên sinh động hơn .</td>
+    </tr>
+    <tr>
+      <td>21520030</td>
+      <td>CNTT01</td>
+      <td>nhiệt tình , giảng bài dễ hiểu .</td>
+    </tr>
+    <tr>
+      <td>21520031</td>
+      <td>CNTT01</td>
+      <td>thầy cho bài tập lạ , đa dạng .</td>
+    </tr>
+    <tr>
+      <td>21520032</td>
+      <td>CNTT01</td>
+      <td>cô cho hơi nhiều bài tập .</td>
+    </tr>
+    <tr>
+      <td>21520033</td>
+      <td>CNTT01</td>
+      <td>Thầy Phạm Minh Đức dạy cần có sách học hay , chi tiết , hiệu quả colonsmilesmile . mssv 21520199 sđt 0912345678</td>
+    </tr>
+    <tr>
+      <td>21520034</td>
+      <td>CNTT01</td>
+      <td>dạy theo sát chương trình .</td>
+    </tr>
+    <tr>
+      <td>21520035</td>
+      <td>CNTT01</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>21520036</td>
+      <td>CNTT01</td>
+      <td>thầy có thể giảng sâu hơn về trọng tâm của bài hơn một chút nữa được không ạ .</td>
+    </tr>
+    <tr>
+      <td>21520037</td>
+      <td>CNTT01</td>
+      <td>thầy chưa chú trọng đến nội dung cũng như cách truyền đạt cho sinh viên .</td>
+    </tr>
+    <tr>
+      <td>21520038</td>
+      <td>CNTT01</td>
+      <td>theo như yêu cầu của môn học , sinh viên phải mang lap để làm bài tập , tuy nhiên ổ cắm trong phòng chỉ có 2 ổ , không đáp ứng được nhu cầu dạy và học của giảng viên lẫn sinh viên .</td>
+    </tr>
+    <tr>
+      <td>21520039</td>
+      <td>CNTT01</td>
+      <td>giải thích bài giảng khá chi tiết .</td>
+    </tr>
+    <tr>
+      <td>21520040</td>
+      <td>CNTT01</td>
+      <td>nên có hướng dẫn chi tiết hơn .</td>
+    </tr>
+    <tr>
+      <td>21520041</td>
+      <td>CNTT01</td>
+      <td>giảng viên nên giảng bài cụ thể hơn , hạn chế dùng slide .</td>
+    </tr>
+    <tr>
+      <td>21520042</td>
+      <td>CNTT01</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>21520043</td>
+      <td>CNTT01</td>
+      <td>vui vẻ , hòa đồng và biết lắng nghe ý kiến của sinh viên .</td>
+    </tr>
+    <tr>
+      <td>21520044</td>
+      <td>CNTT01</td>
+      <td>Thầy Trần Thị Bình dạy giảng dạy tốt , nhiệt tình chỉ bảo sinh viên . mssv 21520199 sđt 0912345678</td>
+    </tr>
+    <tr>
+      <td>21520045</td>
+      <td>CNTT01</td>
+      <td>giảng viên tận tâm , nhiệt tình đới với sinh viên .</td>
+    </tr>
+    <tr>
+      <td>21520046</td>
+      <td>CNTT01</td>
+      <td>chu đáo , nhiệt tình .</td>
+    </tr>
+    <tr>
+      <td>21520047</td>
+      <td>CNTT01</td>
+      <td>kiến thức uyên bác và hài hước , hay kể chuyện .</td>
+    </tr>
+    <tr>
+      <td>21520048</td>
+      <td>CNTT01</td>
+      <td>thầy giảng chưa sâu !</td>
+    </tr>
+    <tr>
+      <td>21520049</td>
+      <td>CNTT01</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>21520050</td>
+      <td>CNTT01</td>
+      <td>điểm danh thường xuyên .</td>
+    </tr>
+    <tr>
+      <td>21520051</td>
+      <td>CNTT01</td>
+      <td>giảng viên chưa đi sâu vào bản chất của vấn đề , em chỉ học thôi mà không biết bản chất của nó là gì nó có ứng dụng gì sau này cho chuyên nghành của em .</td>
+    </tr>
+    <tr>
+      <td>21520052</td>
+      <td>CNTT01</td>
+      <td>tuy nhiên ước gì cô giải nhiều bài tập hơn ở cuối kỳ .</td>
+    </tr>
+    <tr>
+      <td>21520053</td>
+      <td>CNTT01</td>
+      <td>nên hơi choáng do tự học quá nhiều .</td>
+    </tr>
+    <tr>
+      <td>21520054</td>
+      <td>CNTT01</td>
+      <td>cô giảng nhiệt tình dễ hiểu , giúp sinh viên giải quyết nhiều vấn đề trong lúc thực hành .</td>
+    </tr>
+    <tr>
+      <td>21520055</td>
+      <td>CNTT01</td>
+      <td>Thầy Phạm Minh Đức dạy không có lời giải đầy đủ , học sinh không biết làm là coi như không biết làm từ đâu hết cuối . mssv 21520199 sđt 0912345678</td>
+    </tr>
+    <tr>
+      <td>21520056</td>
+      <td>CNTT01</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>21520057</td>
+      <td>CNTT01</td>
+      <td>thường xuyên vào lớp muộn và dạy lố giờ .</td>
+    </tr>
+    <tr>
+      <td>21520058</td>
+      <td>CNTT01</td>
+      <td>tương tác tốt với sinh viên ở trên lớp .</td>
+    </tr>
+    <tr>
+      <td>21520059</td>
+      <td>CNTT01</td>
+      <td>các bài thực hành không hỗ trợ nhiều cho đồ án .</td>
+    </tr>
+    <tr>
+      <td>21520060</td>
+      <td>CNTT01</td>
+      <td>giảng viên đi dạy rất đúng giờ .</td>
+    </tr>
+    <tr>
+      <td>21520061</td>
+      <td>CNTT01</td>
+      <td>dạy nhiệt tình và tận tâm .</td>
+    </tr>
+    <tr>
+      <td>21520062</td>
+      <td>CNTT01</td>
+      <td>thầy dạy nhiệt tình và tận tâm với sinh viên .</td>
+    </tr>
+    <tr>
+      <td>21520063</td>
+      <td>CNTT01</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>21520064</td>
+      <td>CNTT01</td>
+      <td>chuyên môn cao , đá bóng hay .</td>
+    </tr>
+    <tr>
+      <td>21520065</td>
+      <td>CNTT01</td>
+      <td>cần tăng số buổi thực hành cũng như trang bị thêm trang thiết bị như mua thêm nhiều switch , router , hub , bridge , trong phòng ngồi học mà ít bụi và nòng đi thì tốt hơn , vdotv .</td>
+    </tr>
+    <tr>
+      <td>21520066</td>
+      <td>CNTT01</td>
+      <td>Thầy Nguyễn Văn An dạy ít quan sát sinh viên thực hành . mssv 21520199 sđt 0912345678</td>
+    </tr>
+    <tr>
+      <td>21520067</td>
+      <td>CNTT01</td>
+      <td>cô giảng dạy hay , dễ tiếp thu .</td>
+    </tr>
+    <tr>
+      <td>21520068</td>
+      <td>CNTT01</td>
+      <td>các slide bài giảng thường xuyên sử dụng xen kẽ tiếng anh và việt một cách không thống nhất , gây khó hiểu cho sinh viên .</td>
+    </tr>
+    <tr>
+      <td>21520069</td>
+      <td>CNTT01</td>
+      <td>thầy dạy vui dễ hiểu , không khí lớp học thoải mái .</td>
+    </tr>
+  </tbody>
+</table>
