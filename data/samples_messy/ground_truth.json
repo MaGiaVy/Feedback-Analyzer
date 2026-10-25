@@ -1,0 +1,63 @@
+{
+  "01_clean.xlsx": {
+    "header_row": 0,
+    "text_cols": [
+      "Ý kiến đóng góp"
+    ]
+  },
+  "02_title_rows.xlsx": {
+    "header_row": 5,
+    "text_cols": [
+      "Góp ý"
+    ]
+  },
+  "03_english_cols.xlsx": {
+    "header_row": 0,
+    "text_cols": [
+      "Student_Feedback"
+    ]
+  },
+  "04_multi_sheet.xlsx": {
+    "header_row": 0,
+    "text_cols": [
+      "Nhận xét của sinh viên"
+    ]
+  },
+  "05_legacy.xls": {
+    "header_row": 0,
+    "text_cols": [
+      "Ý kiến khác"
+    ]
+  },
+  "06_semicolon_bom.csv": {
+    "header_row": 0,
+    "text_cols": [
+      "Góp ý"
+    ]
+  },
+  "07_utf16_tab.csv": {
+    "header_row": 0,
+    "text_cols": [
+      "Phản hồi"
+    ]
+  },
+  "08_two_text_cols.xlsx": {
+    "header_row": 0,
+    "text_cols": [
+      "Ưu điểm",
+      "Nhược điểm"
+    ]
+  },
+  "09_long_paragraphs.xlsx": {
+    "header_row": 2,
+    "text_cols": [
+      "Ý kiến góp ý"
+    ]
+  },
+  "10_html_as_xls.xls": {
+    "header_row": 0,
+    "text_cols": [
+      "Comment"
+    ]
+  }
+}
